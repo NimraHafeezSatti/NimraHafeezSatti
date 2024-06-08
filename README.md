@@ -1,3 +1,7 @@
+# Hi there, I'm Nimra Hafeez Satti 👋
+[![](https://visitcount.itsvg.in/api?id=NimraHafeezSatti&icon=0&color=1)](https://visitcount.itsvg.in)
+
+
 # 💫 About Me:
 🌱 I’m currently learning Python and Django<br>👯 I’m looking to work in a Pythton and AI based Companies.<br>💬 Ask me about Python or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: Sometimes, i laugh on jokes.
 
